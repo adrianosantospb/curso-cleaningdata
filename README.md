@@ -7,4 +7,10 @@ Eu vou criar uma série de atividades sobre Cleaning Data e espero que vocês ac
 
 Cada nova postagem será compartilhada e sinalizada aqui mesmo. Adicionarei comentários em cada etapa do código e, também, explicarei as motivações e quando devemos utilizar cada operação apresentada.
 
+#### O que já temos?
+
+* 1. Introdução à Cleaning Data
+* 2. Análise Exploratória dos Dados
+* 3. Análise e Transformação de variáveis qualitativas
+
 Bons estudos.
